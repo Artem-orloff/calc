@@ -1,0 +1,11 @@
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\sch\лабы и пз по проге\1 курс 2 семестр\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
