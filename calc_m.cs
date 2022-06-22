@@ -51,7 +51,14 @@ namespace WinFormsApp1
                     textBox3.Text = Convert.ToString(a * b);
                     break;
                 case "деление":
-                    textBox3.Text=Convert.ToString(a/b);
+                                        if (b == 0)
+                    {
+                        textBox3.Text = "На ноль делить нельзя";
+                    }
+                    else
+                    {
+                        textBox3.Text=Convert.ToString(a/b);
+                    }
                     break;
                 case "возведение в степень":
                     textBox3.Text=Convert.ToString(Math.Pow(a, b));
