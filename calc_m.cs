@@ -41,13 +41,13 @@ namespace WinFormsApp1
 
             switch (comboBox1.Text)
             {
-                case "Ñëîæåíèå":
+                case "Сложение":
                     textBox3.Text = Convert.ToString(a + b);
                     break;
-                case "Âû÷èòàíèå":
+                case "Вычитание":
                     textBox3.Text = Convert.ToString(a - b);
                     break;
-                case "Óìíîæåíèå":
+                case "Умножение":
                     textBox3.Text = Convert.ToString(a * b);
                     break;
                 case "деление":
