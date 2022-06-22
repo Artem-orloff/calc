@@ -41,14 +41,23 @@ namespace WinFormsApp1
 
             switch (comboBox1.Text)
             {
-                case "��������":
+                case "Ñëîæåíèå":
                     textBox3.Text = Convert.ToString(a + b);
                     break;
-                case "���������":
+                case "Âû÷èòàíèå":
                     textBox3.Text = Convert.ToString(a - b);
                     break;
-                case "���������":
+                case "Óìíîæåíèå":
                     textBox3.Text = Convert.ToString(a * b);
+                    break;
+                case "деление":
+                    textBox3.Text=Convert.ToString(a/b);
+                    break;
+                case "возведение в степень":
+                    textBox3.Text=Convert.ToString(Math.Pow(a, b));
+                    break;
+                case "остаток от деления":
+                    textBox3.Text=Convert.ToString(a % b);
                     break;
             }
         }
@@ -57,6 +66,7 @@ namespace WinFormsApp1
         {
             textBox1.Text = "";
             textBox2.Text = "";
+            textBox3.Text = "";
         }
     }
 }
