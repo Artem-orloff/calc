@@ -1,0 +1,18 @@
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\bin\Debug\calc.exe.config
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\bin\Debug\calc.exe
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\bin\Debug\calc.pdb
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.exe
+C:\Users\mnago\OneDrive\Рабочий стол\Мои работы\calc\calc\obj\Debug\calc.pdb
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\practiceCalc.Form1.resources
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.exe
+C:\Users\Царь-Батюшка\Desktop\calc\calc\obj\Debug\calc.pdb
